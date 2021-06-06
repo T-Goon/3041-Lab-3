@@ -1,6 +1,13 @@
 
 # Lab 3:  Forms
 
+Lab assignment 3 for WPI class CS 3041 Human Computer Interaction. Creates a simple web page with stylized forms and other feature specific to HTML forms.
+
+The website can be viewed at: https://t-goon.github.io/3041-Lab-3/
+
+More details on the assignment can be found below.
+
+******************************************************************************************************************************************************************
 In this lab we will continue to develop our web app. You will learn to:
 
 - Create and style HTML 5 forms
